@@ -4,11 +4,11 @@
 
 ###
 
-<h1 align="center">Hola, que tal 👋</h1>
+<h1 align="center">Hola 👋 soy Tomas / unsimpleDev ✨</h1>
 
 ###
 
-<p align="left">Soy Tomas Zorrilla, PHP Developer con más de 4 años de experiencia. Inicié en la programación como un hobby, y con el tiempo se convirtió en mi profesión y pasión.<br><br>Actualmente trabajo en equipos de desarrollo aplicando metodologías ágiles, para optimizar el flujo de trabajo y la colaboración, mientras continúo en constante aprendizaje para fortalecer mis habilidades, adquirir nuevos conocimientos y aportar soluciones cada vez más eficientes e innovadoras.<br><br>- 🔭 Trabajando como PHP Developer en SourcingUp.<br>- 📚 Actualmente estoy aprendiendo nuevas metodologias en seguridad.<br>- ⚡En mi tiempo libre me gusta estar con mi familia y jugar fútbol con amigos.</p>
+<p align="left">Desarrollador con más de 4 años de experiencia. Empecé en la programación como un hobby y hoy trabajo en equipos ágiles, mejorando continuamente mis habilidades para crear soluciones eficientes e innovadoras.<br><br>- 🔭 Trabajando como PHP Developer en SourcingUp.<br>- 📚 Actualmente estoy aprendiendo nuevas metodologias en seguridad.<br>- ⚡En mi tiempo libre me gusta estar con mi familia y jugar fútbol con amigos.</p>
 
 ###
 
