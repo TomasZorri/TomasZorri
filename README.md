@@ -1,33 +1,20 @@
+<h1 align="center">Hi 👋 I'm Tomas / unsimpleDev ✨</h1>
 
-
-
-
-###
-
-<h1 align="center">Hola 👋 soy Tomas / unsimpleDev ✨</h1>
+<p align="left">Backend Developer with 5+ years of experience building scalable backend systems for SaaS and eCommerce platforms.<br>Currently focused on AI Agents, backend architectures and workflow automation using Laravel and Python.</p>
 
 ###
 
-<p align="left">Desarrollador con más de 4 años de experiencia. Empecé en la programación como un hobby y hoy trabajo en equipos ágiles, mejorando continuamente mis habilidades para crear soluciones eficientes e innovadoras.<br><br>- 🔭 Trabajando como PHP Developer en SourcingUp.<br>- 📚 Actualmente estoy aprendiendo nuevas metodologias en seguridad.<br>- ⚡En mi tiempo libre me gusta estar con mi familia y jugar fútbol con amigos.</p>
+<h3>🚀 Current Focus</h3>
+• Backend Development with PHP & Laravel<br>
+• REST APIs and Service Integration<br>
+• AI Agents & Workflow Automation<br>
+• Model Context Protocol (MCP)<br>
+• Python for automation and AI
 
 ###
 
-<h3 align="left">🛠 Tecnologías y herramientas</h3>
-
-###
+<h3>🛠 Tech Stack</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="js logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,fastapi,mysql,sqlite,git,docker" />
 </div>
